@@ -14,3 +14,4 @@ uvicorn
 sse_starlette
 loguru
 openai==0.28.1
+pyngrok
